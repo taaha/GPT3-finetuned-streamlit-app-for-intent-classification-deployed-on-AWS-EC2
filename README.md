@@ -1,4 +1,4 @@
-# GPT3-finetuned-streamlit-app-for-intent-classification-deployed-on-ec2
+# GPT3-finetuned-streamlit-app-for-intent-classification-deployed-on-AWS-EC2
 
 GPT3 was finetuned for inten classification on the The ATIS dataset ahich is a standard benchmark dataset widely used as an intent classification. 
 
